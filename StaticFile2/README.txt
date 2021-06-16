@@ -4,5 +4,5 @@ This started as a WebAPI project, then reduced. The startup file and nuget packa
 
 Demo:
 
-/test.html - static file
+/test.js - static file - in the real world, this will be a js file containing one or more web components.
 /health - health endpoint
